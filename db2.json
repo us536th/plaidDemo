@@ -1,8 +1,5 @@
-[
-  {
-    "id": 1,
-    "name": "Heinz Schlotter",
-    "username": "Ketchup",
-    "email": "HS@git.com"
-  }
-]
+0:
+  id:       1
+  name:     "Heinz Schotter"
+  username: "Ketchup"
+  email:    "git.com"
